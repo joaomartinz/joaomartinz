@@ -3,7 +3,7 @@ Estou cursando ensino superior em Anáise e Desenvolvimento de Sistemas. Além d
 Utilizo ferramentas como Git e GitHub para controle de versionamento.
 Em busca da minha primeira oportunidade de emprego na area da tecnologia!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomartinz)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomartinz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
