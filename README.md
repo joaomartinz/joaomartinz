@@ -1,5 +1,5 @@
 ## Olá, eu sou o João Vitor Martins 👋
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em Python e bancos de dados (MySQL e NoSQL). Experiência com Git e GitHub para versionamento de projetos. Em busca da primeira oportunidade na área de tecnologia, motivado a aprender e entregar soluções reais.
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em Análise e Ciência de Dados. Experiência com Git e GitHub para versionamento de projetos. Em busca da primeira oportunidade na área de tecnologia, motivado a aprender e entregar soluções reais.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomartinz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
